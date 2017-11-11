@@ -32,7 +32,7 @@
 		@yield('conteudo')
 
 		<footer class="navbar navbar-default col-xs-12 col-lg-12">
-			<p>&copy Copyligh - 2017</p>
+			<p>&copy Copytight  - 2017</p>
 			<p>Josuel Lopes</p>
 		</footer>
 	</div>
