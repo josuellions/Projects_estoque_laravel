@@ -1,0 +1,51 @@
+/*inicio */
+
+form {
+	width: 50%;
+	margin-top: 10.5%;
+	margin-left: 25%;
+	/*margin-bottom: 10.6%;*/
+}
+
+h1.navbar.navbar-default  {
+	text-align: center;
+	background-color: #337ab7;
+	border-color: #2e6da4;
+	color: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 6.8%;
+	margin-left: 2.5%;
+	/*position: fixed;*/
+	width: 95%;	
+}
+
+div.alert.alert-danger {
+	width: 95% !important;
+	height: 60px !important;
+	float: left;
+	margin-left: 2.5%;
+	font-size: .9rem;
+	margin-right: 0;
+	padding: 0;
+	padding-top: .5%;
+	margin-top: -3%;
+
+}
+
+div.alert.alert-danger ul li {
+	padding-left: 0;
+}
+
+button {
+	margin-top: 5%;
+}
+
+footer {
+	position: relative;
+	margin-top: 21.3% !important;
+	margin-bottom: 0 !important;
+}
+
+
+/*fim

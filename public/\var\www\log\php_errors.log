@@ -1,0 +1,63 @@
+[10-Nov-2017 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/30ca49e349c3387d50f1330528d93dfec0b853c3.php on line 103
+[10-Nov-2017 16:18:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/30ca49e349c3387d50f1330528d93dfec0b853c3.php on line 103
+[10-Nov-2017 16:18:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/30ca49e349c3387d50f1330528d93dfec0b853c3.php on line 103
+[10-Nov-2017 16:18:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/30ca49e349c3387d50f1330528d93dfec0b853c3.php on line 103
+[10-Nov-2017 17:17:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/livro_laravel/estoque_laravel/routes/web.php on line 16
+[10-Nov-2017 20:23:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 66
+[10-Nov-2017 20:23:46 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 66
+[10-Nov-2017 20:23:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 66
+[10-Nov-2017 20:25:31 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 66
+[10-Nov-2017 20:54:12 UTC] PHP Fatal error:  Cannot use [] for reading in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 67
+[10-Nov-2017 21:16:03 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 65
+[10-Nov-2017 21:17:26 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 68
+[10-Nov-2017 21:17:52 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 68
+[10-Nov-2017 21:20:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 65
+[10-Nov-2017 21:36:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 65
+[10-Nov-2017 22:28:40 UTC] PHP Parse error:  syntax error, unexpected '$produto' (T_VARIABLE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 89
+[10-Nov-2017 22:33:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /var/www/livro_laravel/estoque_laravel/routes/web.php on line 55
+[10-Nov-2017 22:51:39 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 91
+[10-Nov-2017 22:52:09 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 91
+[10-Nov-2017 22:52:34 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 91
+[10-Nov-2017 22:52:56 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 91
+[10-Nov-2017 23:33:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/livro_laravel/estoque_laravel/routes/web.php on line 56
+[11-Nov-2017 00:01:45 UTC] PHP Fatal error:  Can't use method return value in write context in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 89
+[11-Nov-2017 00:02:34 UTC] PHP Fatal error:  Can't use method return value in write context in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 89
+[11-Nov-2017 00:10:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 97
+[11-Nov-2017 00:11:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 97
+[11-Nov-2017 00:12:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 97
+[11-Nov-2017 00:13:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 97
+[11-Nov-2017 00:13:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 98
+[11-Nov-2017 01:35:28 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 88
+[11-Nov-2017 01:35:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 88
+[11-Nov-2017 01:37:48 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 88
+[11-Nov-2017 01:52:57 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 89
+[11-Nov-2017 02:12:11 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 87
+[11-Nov-2017 02:13:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 87
+[11-Nov-2017 02:14:57 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 87
+[11-Nov-2017 02:30:19 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 87
+[11-Nov-2017 02:38:26 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 87
+[11-Nov-2017 02:38:49 UTC] PHP Fatal error:  Cannot use [] for reading in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 87
+[11-Nov-2017 02:47:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 90
+[11-Nov-2017 02:59:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 80
+[11-Nov-2017 02:59:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 80
+[11-Nov-2017 02:59:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 80
+[11-Nov-2017 03:01:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 80
+[11-Nov-2017 03:04:41 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 84
+[11-Nov-2017 03:05:09 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 84
+[11-Nov-2017 03:08:14 UTC] PHP Parse error:  syntax error, unexpected ''nome\')); ?></b>, alterado co' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 81
+[11-Nov-2017 03:08:27 UTC] PHP Parse error:  syntax error, unexpected ''nome\')); ?></b>, alterado co' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /var/www/livro_laravel/estoque_laravel/storage/framework/views/7bd94b0dec7c0d9bdaa904a48a1deb721e0d2c86.php on line 85
+[11-Nov-2017 03:45:18 UTC] PHP Parse error:  syntax error, unexpected '$update' (T_VARIABLE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 03:45:51 UTC] PHP Parse error:  syntax error, unexpected '$update' (T_VARIABLE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 03:47:18 UTC] PHP Parse error:  syntax error, unexpected '$update' (T_VARIABLE) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 03:47:48 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:16:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:17:09 UTC] PHP Fatal error:  Cannot re-assign $this in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:25:11 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:31:12 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:32:24 UTC] PHP Fatal error:  Can't use method return value in write context in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 96
+[11-Nov-2017 04:32:55 UTC] PHP Fatal error:  Can't use method return value in write context in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 96
+[11-Nov-2017 04:33:38 UTC] PHP Fatal error:  Can't use method return value in write context in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 96
+[11-Nov-2017 04:35:04 UTC] PHP Fatal error:  Can't use method return value in write context in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:35:49 UTC] PHP Parse error:  syntax error, unexpected ''nome'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:36:15 UTC] PHP Parse error:  syntax error, unexpected '=' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94
+[11-Nov-2017 04:51:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/livro_laravel/estoque_laravel/app/Http/Controllers/ProdutoController.php on line 94

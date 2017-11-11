@@ -1,0 +1,83 @@
+
+/*inicio */
+
+h1.navbar.navbar-default  {
+	text-align: center;
+	background-color: #337ab7;
+	border-color: #2e6da4;
+	color: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 5%;
+	margin-left: 2.5%;
+	/*position: fixed;*/
+	width: 95%;	
+}
+
+div.alinhaTab{
+	/*position: fixed;*/
+}
+
+table {
+	width: 90% !important;
+	margin-top: 5%; 
+	margin-left: 5%;
+}
+
+th {
+	height: 4vh;
+}
+
+td {
+	height: 4vh;
+}
+
+td.valor {
+	text-align: right;
+}
+
+td.quantidade {
+	text-align: center;
+}
+
+td.detalhes {
+	text-align: center;
+}
+
+h4 {
+	padding: .2%;
+	margin-top: 2.5%;
+	margin-left: 31%;
+	font-family: 'Raleway', sans-serif;
+}
+ 	
+div.adicionaProd {
+	text-align: center;
+	width: 60%;
+	margin-top: -6.3%;
+	margin-left: 20%;
+}
+
+footer {
+	position: relative;
+	margin-top: 1% !important;
+	margin-bottom: 0 !important;
+}
+
+/*Dispositivo Mobile 500px*/
+@media only screen and (max-width: 500px) {
+	table.table.table-striped.table-hover {
+		width: 100% !important;
+		font-size: .7rem;
+		margin-top: 2.5%; 
+		margin-left: -1%;
+	}
+
+	footer {
+	position: relative;
+	margin-top: 1% !important;
+	margin-bottom: 0 !important;
+	}
+}
+
+/*fim*/

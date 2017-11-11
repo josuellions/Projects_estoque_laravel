@@ -1,0 +1,59 @@
+*{
+	font-family: sans-serif;
+}
+
+div.row {
+	margin-top: 5%;
+}
+
+footer {
+    margin-top: -4.4% !important;
+    margin-bottom: 0 !important;
+}
+
+@media only screen and (max-width: 500px) {
+
+	nav.navbar.navbar-default {
+	height: 20px !important;
+	float: left;
+	}
+
+	a.navbar-brand {
+		font-size: 1rem !important;
+		width: 65%;
+
+	}
+
+	a.listar {
+		width: 20%;
+		font-size: .7rem !important;
+		padding: 0;
+		float: right;
+	}
+
+	ul a {
+		margin-top: -15% !important;
+		padding: 1.7rem 2rem !important;
+	}
+
+	h1.navbar.navbar-default {
+		font-size: 1.5rem !important;
+		padding-top: 5% !important;
+		margin-top: 0 !important;
+	}
+
+	h4 {
+		font-size: 1rem !important;
+	}
+
+
+	footer {
+		width: 100% !important;
+		padding-top: 2.5% !important;
+
+	}
+
+	footer.navbar.navbar-default > p {
+		font-size: .9rem !important;
+	}
+}

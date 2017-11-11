@@ -1,0 +1,1 @@
+[05-Nov-2017 14:35:17 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/livro_laravel/estoque_laravel/resources/views/listagem.php on line 11
